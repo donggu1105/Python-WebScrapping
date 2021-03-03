@@ -1,2 +1,3 @@
-# Python-WebScrapping
-파이썬으로 하는 웹 스크래핑
+# Python-WebScraping
+
+Webscraping with Python
